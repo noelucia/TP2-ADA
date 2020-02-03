@@ -1,0 +1,11 @@
+{
+  "name": "tp2-ada",
+  "version": "1.0.0",
+  "main": "TP..js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
